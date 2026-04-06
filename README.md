@@ -1,4 +1,3 @@
-
 # Calculator
 
 ```text
@@ -24,4 +23,4 @@
 ### 🚀 Interactive Version
 The grid above is a visual preview for GitHub. To use the actual calculator with the blue and white theme, click the link below:
 
-👉 **[Launch Live Calculator]()**
+👉 **[Launch Live Calculator](https://tylergameryt.github.io/calculator/)**
