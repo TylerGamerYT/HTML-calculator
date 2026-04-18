@@ -28,4 +28,4 @@ The grid above is a visual preview for GitHub. To use the actual calculator with
 ---
 
 ## 💻 C++ Version
-👉 **[View C++ Source Code](https://github.com/TylerGamerYT/cpp-calculator)**
+👉 **[Try the C++ version here](https://github.com/TylerGamerYT/cpp-calculator)**
